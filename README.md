@@ -8,5 +8,3 @@ No curso foi desenvolvida uma pequena aplicação para:
 * Criar validações customizadas utilizando técnicas atuais com JavaScript.
 * Preencher campos de endereço automaticamente com requisições à API da ViaCEP
 * Aplicar máscara monetária em campos de preço.
-
-Link: 
